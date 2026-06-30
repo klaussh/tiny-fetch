@@ -1,0 +1,13 @@
+{
+  "name": "tiny-fetch",
+  "version": "1.0.0",
+  "description": "Minimal fetch wrapper with retry and timeout support",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["fetch", "http", "retry", "timeout"],
+  "author": "klaussh",
+  "license": "MIT"
+}
